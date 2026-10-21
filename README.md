@@ -42,29 +42,45 @@
 </div>
 </br>
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=6BF70D&background=71717100&center=true&vCenter=true&width=200&height=25&lines=About+ME+%F0%9F%92%AC+%3A" alt="About ME" />
+  </a>
+  <br/>
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=3000&color=6BF70D&background=71717100&center=true&vCenter=true&width=1000&height=20&lines=------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=6BF70D&background=71717100&center=true&vCenter=true&width=200&height=20&lines=About+ME+%F0%9F%92%AC+%3A)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=6BF70D&center=true&vCenter=true&width=800&height=30&lines=I'm+21+years+old+Machine+Learning+%26+Artificial+Intelligence+Enthusiast+from+India." alt="Typing SVG Description" />
+  </a>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=3000&color=6BF70D&background=71717100&center=true&vCenter=true&width=1000&height=20&lines=------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------)](https://git.io/typing-svg)
+<br/>
 
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=6BF70D&center=true&vCenter=true&width=800&lines=I'm+21+years+old+Machine+Learning+%26+Artificial+Intelligence+Enthusiast+from+India." alt="Typing SVG Description" />
-      
-<img hight="400" width="50%" alt="GIF" align="right" src="assets/celebration.gif">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=4000&color=4EDB2A&background=71717100&vCenter=true&multiline=true&width=150&height=40&lines=-+Learning%3A)](https://git.io/typing-svg)
-
-<a href="https://git.io/typing-svg">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=247&pause=561&color=4EDB2A&background=71717100&vCenter=true&multiline=true&width=600&height=100&lines=%E2%9C%A8Data+Structures+%26+Algorithms;%E2%9C%A8Machine+Learning+%26+Optimization+Models;%E2%9C%A8Deep+Learning+%26+Neural+Networks" 
-    alt="Typing SVG" 
-    width="50%" 
-  />
-</a>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=4000&color=4EDB2A&background=71717100&multiline=true&width=150&height=30&lines=-+Hobbies%3A)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=247&pause=561&color=4EDB2A&background=71717100&multiline=true&width=500&height=100&lines=%E2%9C%A8+Gaming+Addict;%E2%9C%A8+Watching+Anime;%E2%9C%A8+Reading+Manhwa;%E2%9C%A8+Badminton+%28Neighbourhood+Professional+XD%29)](https://git.io/typing-svg)
+<table width="100%" border="0" style="border: none;">
+  <tr style="border: none;">
+    <td width="55%" align="left" style="border: none; vertical-align: top;">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=4000&color=4EDB2A&background=71717100&vCenter=true&width=200&height=30&lines=-+Learning%3A" alt="Learning Header" />
+      </a>
+      <br/>
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=247&pause=561&color=4EDB2A&background=71717100&vCenter=true&multiline=true&width=550&height=95&lines=%E2%9C%A8+Data+Structures+%26+Algorithms;%E2%9C%A8+Machine+Learning+%26+Optimization+Models;%E2%9C%A8+Deep+Learning+%26+Neural+Networks" alt="Learning Items" />
+      </a>
+      <br/><br/>
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=4000&color=4EDB2A&background=71717100&vCenter=true&width=200&height=30&lines=-+Hobbies%3A" alt="Hobbies Header" />
+      </a>
+      <br/>
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=247&pause=561&color=4EDB2A&background=71717100&vCenter=true&multiline=true&width=550&height=125&lines=%E2%9C%A8+Gaming+Addict;%E2%9C%A8+Watching+Anime;%E2%9C%A8+Reading+Manhwa;%E2%9C%A8+Badminton+%28Neighbourhood+Pro+XD%29" alt="Hobbies Items" />
+      </a>
+    </td>
+    <td width="45%" align="center" style="border: none; vertical-align: middle;">
+      <img src="assets/celebration.gif" alt="Celebration GIF" width="100%" style="border-radius: 8px;">
+    </td>
+  </tr>
+</table>
 
 </br>
 </br>
