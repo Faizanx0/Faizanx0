@@ -56,7 +56,7 @@
 
 <a href="https://git.io/typing-svg">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=247&pause=561&color=4EDB2A&background=71717100&vCenter=true&multiline=true&width=500&height=100&lines=%E2%9C%A8Data+Structures+%26+Algorithms;%E2%9C%A8Machine+Learning+%26+Optimization+Models;%E2%9C%A8Deep+Learning+%26+Neural+Networks" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=247&pause=561&color=4EDB2A&background=71717100&vCenter=true&multiline=true&width=500&height=100&lines=%E2%9C%A8Data+Structures+%26+Algorithms;%E2%9C%A8Machine+Learning+%26+Optimization+Models;%E2%9C%A8Deep+Learning+%26+Neural+Networks" 
     alt="Typing SVG" 
     width="50%" 
   />
