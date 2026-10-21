@@ -50,7 +50,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=6BF70D&center=true&vCenter=true&width=800&lines=I'm+21+years+old+Machine+Learning+%26+Artificial+Intelligence+Enthusiast+from+India." alt="Typing SVG Description" />
       
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="assets/celebration.gif">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=4000&color=4EDB2A&background=71717100&vCenter=true&multiline=true&width=150&height=40&lines=-+Learning%3A)](https://git.io/typing-svg)
 
