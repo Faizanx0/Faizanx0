@@ -54,7 +54,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=4000&color=4EDB2A&background=71717100&vCenter=true&multiline=true&width=150&height=40&lines=-+Learning%3A)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=247&pause=561&color=4EDB2A&background=71717100&vCenter=true&multiline=true&width=500&height=100&lines=%E2%9C%A8Data+Structures+%26+Algorithms;%E2%9C%A8Machine+Learning+%26+Optimization+Models;%E2%9C%A8Deep+Learning+%26+Neural+Networks)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=247&pause=561&color=4EDB2A&background=71717100&vCenter=true&multiline=true&width=50%&height=100&lines=%E2%9C%A8Data+Structures+%26+Algorithms;%E2%9C%A8Machine+Learning+%26+Optimization+Models;%E2%9C%A8Deep+Learning+%26+Neural+Networks)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=4000&color=4EDB2A&background=71717100&multiline=true&width=150&height=30&lines=-+Hobbies%3A)](https://git.io/typing-svg)
 
