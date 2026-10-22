@@ -132,12 +132,11 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=10000&color=6BF70D&background=7C7C7C00&center=tr&vCenter=true&width=1600&height=22&lines=----------------------------------------------------------------------------------------------------------------------------------------------------------------" alt="Divider" width="100%" />
   </a>
 <div align="center">
-  <br/>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=6BF70D&background=7C7C7C00&center=true&vCenter=true&multiline=true&width=800&height=60&lines=If+you+want+to+reach+out+to+me+about+anything%2C+be+it+some+doubt+or;just+to+hangout+and+talk+or+want+to+game+together+just+ping+me+%F0%9F%98%89." alt="Contact Description" />
   </a>
-<br>
+<br><br>
   <a href="mailto:faizanx006@gmail.com">
     <img alt="Gmail" height="45" src="assets/icons/gmail.png" style="vertical-align: middle; margin-right: 15px;" />
   </a>
