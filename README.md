@@ -4,13 +4,13 @@
       <img height="100" width="100" alt="GIF" src="assets/Cat Loading Sticker by mateo1mc.gif">
     </td>
     <td align="center" width="80%" style="border: none; vertical-align: middle;">
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=3000&color=6BF70D&center=true&vCenter=true&width=450&lines=%E2%9C%A6+[Faizanx0]+%E2%9C%A6" alt="Typing SVG Title" />
-      </a>
+      <div align="center">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=120&pause=80&color=6BF70D&background=7C7C7C00&center=true&vCenter=true&width=30&height=32&lines=%E2%A0%8B;%E2%A0%99;%E2%A0%B9;%E2%A0%B8;%E2%A0%BC;%E2%A0%B4;%E2%A0%A6;%E2%A0%A7;%E2%A0%87;%E2%A0%8F" alt="Left Braille" style="vertical-align: middle;" />
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=3000&color=6BF70D&background=7C7C7C00&center=true&vCenter=true&width=170&height=32&lines=%5BFaizanx0%5D" alt="Faizanx0" style="vertical-align: middle;" /></a>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=120&pause=80&color=6BF70D&background=7C7C7C00&center=true&vCenter=true&width=30&height=32&lines=%E2%A0%8B;%E2%A0%99;%E2%A0%B9;%E2%A0%B8;%E2%A0%BC;%E2%A0%B4;%E2%A0%A6;%E2%A0%A7;%E2%A0%87;%E2%A0%8F" alt="Right Braille" style="vertical-align: middle;" />
+      </div>
       <br/>
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=6BF70D&center=true&vCenter=true&width=800&lines=I'm+21+years+old+Machine+Learning+%26+Artificial+Intelligence+Enthusiast+from+India." alt="Typing SVG Description" />
-      </a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=6BF70D&center=true&vCenter=true&width=800&height=30&lines=I'm+21+years+old+Machine+Learning+%26+Artificial+Intelligence+Enthusiast+from+India." alt="Typing SVG Description" /></a>
     </td>
     <td align="right" width="10%" style="border: none; vertical-align: middle;">
       <img height="100" width="100" alt="Cat GIF" src="assets/Cat Loading Sticker by mateo1mc.gif">
