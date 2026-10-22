@@ -122,37 +122,37 @@
 
 
 
-# Contact Me :
-
-<p>
- </br>
-
-
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
-
-<a href="mailto:ashutosh.saxena.2001@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
-</a>
-<a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
-</br>
-</br>
-</br>
-</a>
-<div align="center">
+<div align="left">
   <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=120&pause=80&color=6BF70D&background=7C7C7C00&center=true&vCenter=true&width=350&height=40&lines=.;..;...;%7C;%2F;%E2%80%94;%5C;%E2%86%91;%E2%86%97;%E2%86%92;%E2%86%98;%E2%86%93;%E2%86%99;%E2%86%90;%E2%86%96;%E2%8B%86;%E2%9C%A7;%E2%9C%A6;%E2%9C%B6;%E2%98%85;%E2%A0%8B;%E2%A0%99;%E2%A0%B9;%E2%A0%B8;%E2%A0%BC;%E2%A0%B4;%E2%A0%A6;%E2%A0%A7;%E2%A0%87;%E2%A0%8F;%E2%97%94;%E2%97%95;%E2%97%97;%E2%97%96;%CE%BB;%CE%A9;%CF%80;%E2%88%9E;%E2%8C%A8" 
-      alt="Terminal Symbol Spinner" 
-    />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=6BF70D&background=7C7C7C00&vCenter=true&width=300&height=35&lines=Contact+Me+%E2%98%8E+%3A" alt="Contact Me Header" />
   </a>
+</div>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=10000&color=6BF70D&background=7C7C7C00&center=tr&vCenter=true&width=1600&height=22&lines=----------------------------------------------------------------------------------------------------------------------------------------------------------------" alt="Divider" width="100%" />
+  </a>
+<div align="center">
+  <br/>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=6BF70D&background=7C7C7C00&center=true&vCenter=true&multiline=true&width=800&height=60&lines=If+you+want+to+reach+out+to+me+about+anything%2C+be+it+some+doubt+or;just+to+hangout+and+talk+or+want+to+game+together+just+ping+me+%F0%9F%98%89." alt="Contact Description" />
+  </a>
+<br>
+  <a href="mailto:faizanx006@gmail.com">
+    <img alt="Gmail" height="45" src="assets/icons/gmail.png" style="vertical-align: middle; margin-right: 15px;" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://in.linkedin.com/in/mohammad-faizan----">
+    <img alt="LinkedIn" height="45" src="assets/icons/linkedin.png" style="vertical-align: middle;" />
+  </a>
+
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=160&pause=110&color=6BF70D&background=7C7C7C00&center=true&vCenter=true&width=650&height=40&lines=%E1%97%A3+%E2%80%A2+%E2%80%A2+%E1%97%A7+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E1%97%A3+%E2%80%A2+%E1%97%A7+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E2%80%A2+%E1%97%A3+%E2%80%A2+%E1%97%A7+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E2%80%A2+%E2%80%A2+%E1%97%A3+%E2%80%A2+%E1%97%A7+%F0%9F%8D%92+%E2%80%A2;%E2%80%A2+%E2%80%A2+%E2%80%A2+%E1%97%A3+%E2%80%A2+%E2%9C%A8%E1%97%A4%E2%9C%A8+%E2%80%A2;%E2%80%A2+%E2%80%A2+%E2%80%A2+%E1%97%A3+%E1%97%A4%F0%9F%92%A5+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E2%80%A2+%E2%80%A2+%E1%97%A4+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E2%80%A2+%E1%97%A4+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E1%97%A4+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E1%97%A4+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E1%97%A7+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E1%97%A7+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E2%80%A2+%E1%97%A7+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2" 
-      alt="Smooth 1-Step Pacman Cycle with Power-Up" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=50&pause=700&color=6BF70D&background=7C7C7C00&center=true&vCenter=true&width=650&height=40&lines=%E1%97%A3+%E2%80%A2+%E2%80%A2+%E1%97%A7+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E1%97%A3+%E2%80%A2+%E1%97%A7+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E2%80%A2+%E1%97%A3+%E2%80%A2+%E1%97%A7+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E2%80%A2+%E2%80%A2+%E1%97%A3+%E2%80%A2+%E1%97%A7+%F0%9F%8D%92+%E2%80%A2;%E2%80%A2+%E2%80%A2+%E2%80%A2+%E1%97%A3+%E2%80%A2+%E2%9C%A8%E1%97%A4%E2%9C%A8+%E2%80%A2;%E2%80%A2+%E2%80%A2+%E2%80%A2+%E1%97%A3+%E1%97%A4+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E2%80%A2+%E2%80%A2+%F0%9F%92%A5+%E1%97%A4+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E2%80%A2+%E2%80%A2+%E1%97%A4+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E2%80%A2+%E1%97%A4+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E1%97%A4+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E1%97%A4+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E1%97%A7+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E1%97%A7+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E2%80%A2+%E1%97%A7+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2" 
+      alt="Smooth Pacman Cycle with Confrontation and Blast" 
     />
   </a>
 </div>
