@@ -95,8 +95,12 @@
 
 
 
-<img height="100" width="100" alt="GIF" src="assets/death note computer GIF.gif">
-  
+<div align="center">
+  <img height="300" width="500" alt="GIF" src="assets/death note computer GIF.gif">
+</div>
+
+<br>
+
 <p align="center">
 
 <img src="assets/icons/python.png" alt="python" width="120" height="50">
@@ -135,7 +139,20 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </br>
 </a>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=120&pause=80&color=6BF70D&background=7C7C7C00&center=true&vCenter=true&width=350&height=40&lines=.;..;...;%7C;%2F;%E2%80%94;%5C;%E2%86%91;%E2%86%97;%E2%86%92;%E2%86%98;%E2%86%93;%E2%86%99;%E2%86%90;%E2%86%96;%E2%8B%86;%E2%9C%A7;%E2%9C%A6;%E2%9C%B6;%E2%98%85;%E2%A0%8B;%E2%A0%99;%E2%A0%B9;%E2%A0%B8;%E2%A0%BC;%E2%A0%B4;%E2%A0%A6;%E2%A0%A7;%E2%A0%87;%E2%A0%8F;%E2%97%94;%E2%97%95;%E2%97%97;%E2%97%96;%CE%BB;%CE%A9;%CF%80;%E2%88%9E;%E2%8C%A8" 
+      alt="Terminal Symbol Spinner" 
+    />
+  </a>
+</div>
 
-
-
-*************
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=160&pause=110&color=6BF70D&background=7C7C7C00&center=true&vCenter=true&width=650&height=40&lines=%E1%97%A3+%E2%80%A2+%E2%80%A2+%E1%97%A7+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E1%97%A3+%E2%80%A2+%E1%97%A7+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E2%80%A2+%E1%97%A3+%E2%80%A2+%E1%97%A7+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E2%80%A2+%E2%80%A2+%E1%97%A3+%E2%80%A2+%E1%97%A7+%F0%9F%8D%92+%E2%80%A2;%E2%80%A2+%E2%80%A2+%E2%80%A2+%E1%97%A3+%E2%80%A2+%E2%9C%A8%E1%97%A4%E2%9C%A8+%E2%80%A2;%E2%80%A2+%E2%80%A2+%E2%80%A2+%E1%97%A3+%E1%97%A4%F0%9F%92%A5+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E2%80%A2+%E2%80%A2+%E1%97%A4+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E2%80%A2+%E1%97%A4+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E1%97%A4+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E1%97%A4+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E1%97%A7+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E1%97%A7+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E2%80%A2+%E1%97%A7+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2" 
+      alt="Smooth 1-Step Pacman Cycle with Power-Up" 
+    />
+  </a>
+</div>
