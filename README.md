@@ -34,6 +34,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizanx0&theme=blue-green&hide_border=true" height="165" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizanx0&theme=blue-green&show_icons=true&hide_border=true&layout=compact" height="165" />
+  <div align="center">
+  <img src="profile-3d-contrib/profile-night-green.svg" alt="GitHub 3D Contribution Grid" width="80%" />
+</div>
 </p>
 
 <div align="center">
@@ -148,7 +151,7 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://git.io/typing-svg">   
     <img 
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=50&pause=700&color=6BF70D&background=7C7C7C00&center=true&vCenter=true&width=650&height=40&lines=%E1%97%A3+%E2%80%A2+%E2%80%A2+%E1%97%A7+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E1%97%A3+%E2%80%A2+%E1%97%A7+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E2%80%A2+%E1%97%A3+%E2%80%A2+%E1%97%A7+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E2%80%A2+%E2%80%A2+%E1%97%A3+%E2%80%A2+%E1%97%A7+%F0%9F%8D%92+%E2%80%A2;%E2%80%A2+%E2%80%A2+%E2%80%A2+%E1%97%A3+%E2%80%A2+%E2%9C%A8%E1%97%A4%E2%9C%A8+%E2%80%A2;%E2%80%A2+%E2%80%A2+%E2%80%A2+%E1%97%A3+%E1%97%A4+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E2%80%A2+%E2%80%A2+%F0%9F%92%A5+%E1%97%A4+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E2%80%A2+%E2%80%A2+%E1%97%A4+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E2%80%A2+%E1%97%A4+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E1%97%A4+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E1%97%A4+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E1%97%A7+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E1%97%A7+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2;%E2%80%A2+%E2%80%A2+%E1%97%A7+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2+%E2%80%A2" 
       alt="Smooth Pacman Cycle with Confrontation and Blast" 
